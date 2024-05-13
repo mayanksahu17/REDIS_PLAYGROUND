@@ -1,0 +1,9 @@
+{
+  "name": "redis_playground",
+  "module": "index.js",
+  "type": "module",
+
+  "dependencies": {
+    "ioredis": "^5.4.1"
+  }
+}
